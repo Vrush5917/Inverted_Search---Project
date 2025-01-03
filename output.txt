@@ -1,0 +1,41 @@
+ #[0]
+ Word is are: file count is: 1 file/s: File is: file1.txt: Word count is 1
+
+ #[6]
+ Word is good: file count is: 1 file/s: File is: file2.txt: Word count is 1
+
+ #[7]
+ Word is hi: file count is: 2 file/s: File is: file2.txt: Word count is 1
+ File is: file1.txt: Word count is 1
+
+ #[7]
+ Word is hello: file count is: 1 file/s: File is: file1.txt: Word count is 3
+
+ #[7]
+ Word is how: file count is: 1 file/s: File is: file1.txt: Word count is 1
+
+ #[7]
+ Word is Hello: file count is: 1 file/s: File is: file3.txt: Word count is 1
+
+ #[8]
+ Word is is: file count is: 2 file/s: File is: file3.txt: Word count is 1
+ File is: file2.txt: Word count is 1
+
+ #[12]
+ Word is My: file count is: 1 file/s: File is: file3.txt: Word count is 1
+
+ #[13]
+ Word is name: file count is: 1 file/s: File is: file3.txt: Word count is 1
+
+ #[15]
+ Word is program: file count is: 1 file/s: File is: file2.txt: Word count is 1
+
+ #[21]
+ Word is Vrushabh: file count is: 1 file/s: File is: file3.txt: Word count is 1
+
+ #[24]
+ Word is you: file count is: 1 file/s: File is: file1.txt: Word count is 1
+
+ #[51]
+ Word is 32: file count is: 1 file/s: File is: file1.txt: Word count is 1
+
